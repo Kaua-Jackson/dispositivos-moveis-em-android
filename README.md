@@ -1,6 +1,6 @@
 # Olá! Eu sou o Kauã 👋
 
-Sou um entusiasta de tecnologia e estudante de **Sistemas de Informação na FURB** (Blumenau/SC). Meu foco atual está no desenvolvimento de softwares robustos e escaláveis, transitando entre os ecossistemas **Java** e **C#**.
+Sou um entusiasta de tecnologia e estudante de **Sistemas de Informação na Estácio**. Meu foco atual está no desenvolvimento de softwares robustos e escaláveis, transitando entre os ecossistemas **Java** e **C#**.
 
 Moro em **Timbó - SC** e busco constantemente aplicar os conceitos teóricos da faculdade em desafios práticos de engenharia de software, priorizando performance e código limpo.
 
