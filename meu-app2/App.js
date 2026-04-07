@@ -6,13 +6,17 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 import HomeScreen from './components/HomeScreen';
 import PerfilScreen from './components/PerfilScreen';
+import LoginScreen from './components/LoginScreen';
+import TelainicialScreen from './components/TelainicialScreen';
 
 const Stack = createNativeStackNavigator();
 
 export default function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName='Home'>
+      <Stack.Navigator initialRouteName='Login'>
+        <Stack.Screen name="Login" component={LoginScreen}/>
+        <Stack.Screen name="TelainicialScreen" component={TelainicialScreen}/>
         <Stack.Screen name="Home" component={HomeScreen}/>
         <Stack.Screen name="Perfil_Teste" component={PerfilScreen}/>
       </Stack.Navigator>
